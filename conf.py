@@ -41,12 +41,12 @@ nav = [
     },
     {
         "name": "Writings",
-        "url": "${site_prefix}writing/",
+        "url": "${site_prefix}writings/",
         "target": "_self"
     }
 ]
-     "name": "Photo collections",
-        "url": "${site_prefix}photo/",
+     "name": "Photography",
+        "url": "${site_prefix}photography/",
         "target": "_self"
     }
 ]
