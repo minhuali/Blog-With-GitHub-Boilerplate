@@ -27,7 +27,7 @@ email = "LEEMMMHHHH@GMAIL.COM"
 author_homepage = "https://www.imalan.cn"
 description = "Here is an individual version of the truth"
 key_words = ['anthropology', 'photography', 'health', 'blog']
-language = 'zh-CN'
+language = 'en'
 nav = [
     {
         "name": "Home",
