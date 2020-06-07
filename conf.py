@@ -43,8 +43,8 @@ nav = [
         "name": "Writings",
         "url": "${site_prefix}writings/",
         "target": "_self"
-    }
-]
+    },
+    {
      "name": "Photography",
         "url": "${site_prefix}photography/",
         "target": "_self"
