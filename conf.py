@@ -20,12 +20,9 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "Minhua Li"
-site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
 author = "MINHUA LI"
 email = "LEEMMMHHHH@GMAIL.COM"
-author_homepage = "https://www.imalan.cn"
-description = "Here is an individual version of the truth"
+description = ""
 key_words = ['anthropology', 'photography', 'health', 'blog']
 language = 'en'
 nav = [
